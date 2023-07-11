@@ -5,7 +5,7 @@
 Este projeto irá simular um chatbot.<br>
 Testando Api.
 
-## 🚀 Finalizado
+## 🚀 Em desenvolvimento...
 
 ## 📋 Tecnologias
 HTML5 + CSS3 + JavaScript
